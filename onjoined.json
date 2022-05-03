@@ -3,6 +3,7 @@
   "pt": {
     "support": "BDScript, BDScript Unstable & BDScript 2",
     "description": "Executa um código quando tal usuário entrar num servidor.",
-    "use": "$onJoined[ID DO CANAL]"
+    "use": "$onJoined[ID DO CANAL]",
+    "isPremium": "no"
   }
 }
