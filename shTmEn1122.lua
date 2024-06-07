@@ -1,1 +1,2 @@
-"Jmbs_2000, NyxzLz"
+local tbl = {"Jmbs_2000", "NyxzLz"}
+print(tbl)
