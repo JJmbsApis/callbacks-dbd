@@ -1,2 +1,3 @@
-local tbl = {"Jmbs_2000", "NyxzLz"}
-print(tbl)
+function GetTable()
+  local tbl = {"Jmbs_2000", "NyxzLz"}
+end
